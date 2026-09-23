@@ -21,3 +21,4 @@ namespace BIMFace.SDK.CSharp.Entity
 
     }
 }
+// 10f85b

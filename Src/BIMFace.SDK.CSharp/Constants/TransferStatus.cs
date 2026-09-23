@@ -44,3 +44,4 @@ namespace BIMFace.SDK.CSharp.Constants
         UNRESOLVED = -1
     }
 }
+// dda1ff

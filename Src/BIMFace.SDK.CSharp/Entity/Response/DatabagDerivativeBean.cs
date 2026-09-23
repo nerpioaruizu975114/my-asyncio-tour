@@ -51,3 +51,4 @@ namespace BIMFace.SDK.CSharp.Entity
         public string Status { get; set; }
     }
 }
+// 432bf4
